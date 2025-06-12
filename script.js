@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Mock data for photos. In a real app, this would come from an API.
     const photoData = [
-        { src: 'photo1.png', title: 'Mission Thumbnail Design for example', date: '07-Jun-2025' },
-        { src: 'photo2.png', title: 'Grow Thumbnail  Design for example', date: 'Sep 15, 2023' },
+        { src: 'photo1.png', title: 'Mission Thumbnail Design for example', date: '12-Jun-2025' },
+        { src: 'photo2.png', title: 'Grow Thumbnail  Design for example', date: '12-Jun-2025' },
         { src: 'photo3.png', title: 'Oceanic Hues', date: 'Aug 02, 2023' },
         { src: 'photo4.png', title: 'Mountain Majesty', date: 'Jul 21, 2023' },
         { src: 'photo5.png', title: 'City at Dusk', date: 'Jun 11, 2023' },
